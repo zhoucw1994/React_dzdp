@@ -1,2 +1,2 @@
 # React_dzdp
-react demo
+This is a demo using react and es6
